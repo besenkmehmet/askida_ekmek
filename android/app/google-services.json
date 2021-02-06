@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981279207680",
+    "project_id": "askidaekmek-fe43a",
+    "storage_bucket": "askidaekmek-fe43a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981279207680:android:a44012b6019ae9a36a43e5",
+        "android_client_info": {
+          "package_name": "com.example.askida_ekmek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981279207680-e9g4h7hkuc6ld682lvgjo72fckpu3htp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMEkabx9p1U2v9pUKwH7KK4BbLStZXGXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981279207680-e9g4h7hkuc6ld682lvgjo72fckpu3htp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
